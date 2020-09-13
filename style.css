@@ -1,0 +1,27 @@
+li {
+    list-style: none;
+    margin: 10px;
+    display: inline-block;
+    font-size: 30px;
+
+    transition: .5s;
+    
+}
+
+li:hover {
+    color: orange;
+    transition: .5s;
+    
+}
+
+#footer {
+
+}
+
+.info {
+    float: left;
+}
+
+#portfolio1 {
+    padding: 100px;
+}
