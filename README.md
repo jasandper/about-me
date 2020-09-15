@@ -1,9 +1,6 @@
-# My Portfolio
+# Description
+This website is designed to let the world know who I am and what type of work i'm capble of producing. 
 
-I've created three HTML pages to make up my portfolio web application.  The nav bar on each page links to an "About Me" , "Contact", and "Portfolio" page. 
+# Link to App
 
-The about me page includes a header, and image of myself and a paragraph all inside a container. 
-
-The contact page includes a bootstrap form layout to gather "name", "email", and a "message".  
-
-The portfolio page containes photo placeholders for future portfolio projects.
+https://jasandper.github.io/about-me/
